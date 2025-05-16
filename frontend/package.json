@@ -2,6 +2,7 @@
   "name": "todo-frontend",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://ristiiner.github.io/todo-app-ci-cd-kta-24",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
